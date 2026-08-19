@@ -1,0 +1,88 @@
+RAVULA RAHUL REDDY
+React.js Frontend Developer
+Hyderabad, India
+Phone: +91 9154967515
+Email: ravularahulreddy07@gmail.com
+LinkedIn: www.linkedin.com/in/ravula-rahul-reddy
+GitHub: https://github.com/rahulreddyravula
+
+=========================================
+PROFESSIONAL SUMMARY
+=========================================
+React.js Frontend Developer with 2+ years of professional experience designing 
+and developing scalable, responsive, and high-performance web applications using 
+React.js, TypeScript, and modern JavaScript (ES6+).
+
+Experienced in:
+- Reusable and modular React components
+- Redux Toolkit state management
+- RESTful API integration with Axios/Fetch
+- JWT authentication and route protection
+- Responsive web design (Tailwind CSS, CSS Grid, Flexbox)
+- Performance optimization (Lazy loading, minimizing re-renders)
+- Modern frontend architecture and Agile methodologies
+- Clean, structured, and maintainable code
+
+=========================================
+TECHNICAL SKILLS
+=========================================
+- Frontend: React.js, TypeScript, JavaScript ES6+, HTML5, CSS3, Bootstrap 5, Tailwind CSS
+- State Management: Redux Toolkit
+- Backend Integration: RESTful APIs, Axios, Fetch API, JSON
+- Backend Knowledge: Node.js, Express.js
+- Database: MongoDB
+- Authentication & Payments: JWT, Stripe
+- Tools & Workflow: Git, GitHub, Postman, VS Code, Agile/Scrum
+
+=========================================
+PROFESSIONAL EXPERIENCE
+=========================================
+React.js Developer | Kushal Technologies, Hyderabad
+Period: May 2024 – Present
+
+Key Contributions & Achievements:
+- Developed responsive and mobile-first interfaces using React.js, TypeScript, and Tailwind CSS.
+- Built reusable and modular React components.
+- Implemented Redux Toolkit for centralized state management.
+- Integrated RESTful APIs using Axios.
+- Implemented JWT authentication and protected routes.
+- Developed dynamic filtering, searching, and sorting functionality.
+- Optimized performance by minimizing unnecessary re-renders.
+- Implemented lazy loading and component-level optimization.
+- Worked with designers, backend developers, and QA teams in Agile environments.
+- Delivered features and project modules on time.
+- Received client appreciation for quality delivery.
+
+=========================================
+ACADEMIC PROJECTS
+=========================================
+Project 1: Pudami Stores
+Subtitle: Full-Stack E-Commerce Platform for Kids Toys
+Technologies: React.js, TypeScript, Redux Toolkit, Tailwind CSS, Node.js, Express.js, MongoDB, JWT, Stripe, NodeMailer
+Description: 
+A full-stack e-commerce application developed for selling children's toys online.
+Allows customers to explore, search, filter, manage carts/wishlists, make secure payments via Stripe, track orders, and authenticate securely. Features product/order management and automated email notifications.
+
+Project 2: Medical Staff Management
+Subtitle: Hospital Management & Appointment Platform
+Technologies: React.js, TypeScript, Redux Toolkit, Tailwind CSS, Node.js, Express.js, MongoDB, JWT, Axios
+Description:
+A web-based hospital management application designed to connect patients, doctors, and receptionists. Supports appointment scheduling, doctor availability calendars, patient records, role-based access control, booking, rescheduling, cancellation, and status tracking.
+
+=========================================
+EDUCATION
+=========================================
+- Bachelor of Technology (Information Technology)
+  University College of Engineering, Kakatiya University, Kothagudem
+  Period: Oct 2020 – May 2024 | CGPA: 7.2 / 10
+
+- Intermediate (MPC)
+  Narayana Junior College, Hyderabad
+  Period: June 2018 – April 2020 | Percentage: 92.7%
+
+=========================================
+CERTIFICATIONS
+=========================================
+- React.js Development — Udemy
+- Front-End Web Development — Great Learning (HTML, CSS, Bootstrap)
+- REST API Integration and Web Development — Great Learning
