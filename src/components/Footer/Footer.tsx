@@ -125,12 +125,14 @@ export const Footer: React.FC<FooterProps> = ({ onLogoClick }) => {
               Download Text Resume
             </a>
             <span>|</span>
-            <span
-              onClick={() => window.print()}
-              style={{ color: "var(--text-secondary)", cursor: "pointer" }}
+            <a
+              href="/resume.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ color: "var(--text-secondary)", textDecoration: "none" }}
             >
-              Print Resume (PDF)
-            </span>
+              View PDF Resume
+            </a>
           </p>
         </div>
       </div>

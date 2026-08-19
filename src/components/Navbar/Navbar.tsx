@@ -67,10 +67,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onLogoClick, activeSection, onNa
     }
   };
 
-  const handleResumePrint = (e: React.MouseEvent | React.KeyboardEvent) => {
-    e.preventDefault();
-    window.print();
-  };
+
 
   return (
     <>
@@ -99,8 +96,9 @@ export const Navbar: React.FC<NavbarProps> = ({ onLogoClick, activeSection, onNa
             ))}
             <li>
               <a
-                href="#resume"
-                onClick={handleResumePrint}
+                href="/resume.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="btn btn-secondary font-mono"
                 style={{ padding: "0.4rem 0.8rem", fontSize: "0.8rem", border: "1px solid rgba(6, 182, 212, 0.4)", minHeight: "36px" }}
               >
@@ -147,8 +145,9 @@ export const Navbar: React.FC<NavbarProps> = ({ onLogoClick, activeSection, onNa
               ))}
               <li style={{ marginTop: "1rem" }} role="none">
                 <a
-                  href="#resume"
-                  onClick={handleResumePrint}
+                  href="/resume.pdf"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="btn btn-primary font-mono"
                   style={{ width: "200px" }}
                   role="menuitem"

@@ -21,9 +21,7 @@ export const Hero: React.FC = () => {
     }
   };
 
-  const handlePrintResume = () => {
-    window.print();
-  };
+
 
   const containerVariants = {
     hidden: { opacity: 0 },
@@ -119,9 +117,13 @@ export const Hero: React.FC = () => {
             <button onClick={handleScrollToProjects} className="btn btn-accent font-mono">
               <Eye size={16} /> View My Work
             </button>
-            <button onClick={handlePrintResume} className="btn btn-secondary font-mono">
+            <a
+              href="/resume.pdf"
+              download="Ravula_Rahul_Reddy_Resume.pdf"
+              className="btn btn-secondary font-mono"
+            >
               <FileDown size={16} /> Download Resume
-            </button>
+            </a>
           </motion.div>
 
           <motion.div
