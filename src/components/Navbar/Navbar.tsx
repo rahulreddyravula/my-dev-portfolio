@@ -96,7 +96,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onLogoClick, activeSection, onNa
             ))}
             <li>
               <a
-                href="/resume.pdf"
+                href="/ravularahulreddy.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn btn-secondary font-mono"
@@ -145,7 +145,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onLogoClick, activeSection, onNa
               ))}
               <li style={{ marginTop: "1rem" }} role="none">
                 <a
-                  href="/resume.pdf"
+                  href="/ravularahulreddy.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn btn-primary font-mono"

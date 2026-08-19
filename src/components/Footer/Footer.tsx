@@ -118,15 +118,15 @@ export const Footer: React.FC<FooterProps> = ({ onLogoClick }) => {
           <p>© 2026 Ravula Rahul Reddy. All rights reserved.</p>
           <p style={{ display: "flex", gap: "1rem" }}>
             <a
-              href="/resume.txt"
-              download
+              href="/ravularahulreddy.txt"
+              download="Ravula_Rahul_Reddy_Resume.txt"
               style={{ color: "var(--text-secondary)", textDecoration: "none" }}
             >
               Download Text Resume
             </a>
             <span>|</span>
             <a
-              href="/resume.pdf"
+              href="/ravularahulreddy.pdf"
               target="_blank"
               rel="noopener noreferrer"
               style={{ color: "var(--text-secondary)", textDecoration: "none" }}

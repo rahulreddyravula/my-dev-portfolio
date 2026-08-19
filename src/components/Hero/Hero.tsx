@@ -118,7 +118,7 @@ export const Hero: React.FC = () => {
               <Eye size={16} /> View My Work
             </button>
             <a
-              href="/resume.pdf"
+              href="/ravularahulreddy.pdf"
               download="Ravula_Rahul_Reddy_Resume.pdf"
               className="btn btn-secondary font-mono"
             >
